@@ -1,6 +1,6 @@
 # lab2web
 Pertanyaan dan Tugas 
-1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+* Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 Langkah-langkah dalam pemberian warna ataupun desain dengan menggunakan CSS
 
 1. Membuat Dokumen HTML
