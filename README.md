@@ -4,7 +4,8 @@ KELAS : TI 19 B2
 NIM : 311910094
 
 Pertanyaan dan Tugas 
-*Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+
+* Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 Langkah-langkah dalam pemberian warna ataupun desain dengan menggunakan CSS
 
 1. Membuat Dokumen HTML
@@ -57,4 +58,28 @@ Lalu kembbali pada browser dan refrash agar hasilnya keluar
 
 ![lab6](https://user-images.githubusercontent.com/81526294/113584753-77217500-9655-11eb-9e8f-9f08ae8abb13.PNG)
 
-*Perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}
+* Perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}
+
+h1 {...} : Deklarasi ini akan merubah semua elemen "h1"
+
+#intro h1 {...} : Deklarasi ini lebih spesifik, maksud nya adalah yang akan mendapat atribut adalah elemen "h1" dengan id "intro"
+
+* Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+
+Deklarasi inline yang akan di tampilkan pada browser.
+
+![lab4](https://user-images.githubusercontent.com/81526294/113587002-6a525080-9658-11eb-9004-046b9c0148a0.PNG)
+
+* Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!  ( <p id="paragraf-1" class="text-paragraf"> ) 
+
+class ID yang akan di tampilkan pada browser karena class id secara individu mewakili sebua atribut. Contoh nya bisa di lihat pada 2 gambar di bawah ini terdapat sebuah paragraf dengan Class dan ID
+
+![1](https://user-images.githubusercontent.com/81526294/113588623-97076780-965a-11eb-8f12-5283caf18dde.PNG)
+
+![2](https://user-images.githubusercontent.com/81526294/113588648-a2f32980-965a-11eb-8c1e-ba293d961031.PNG)
+
+Kemudian ke web browser untuk melihat tampilannya
+
+![3](https://user-images.githubusercontent.com/81526294/113588907-e8175b80-965a-11eb-9b40-85347494a510.PNG)
+
+
