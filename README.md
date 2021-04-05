@@ -70,7 +70,7 @@ Deklarasi inline yang akan di tampilkan pada browser.
 
 ![lab4](https://user-images.githubusercontent.com/81526294/113587002-6a525080-9658-11eb-9004-046b9c0148a0.PNG)
 
-* Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!  ( <p id="paragraf-1" class="text-paragraf"> ) 
+* Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 
 class ID yang akan di tampilkan pada browser karena class id secara individu mewakili sebua atribut. Contoh nya bisa di lihat pada 2 gambar di bawah ini terdapat sebuah paragraf dengan Class dan ID
 
