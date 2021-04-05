@@ -1,6 +1,10 @@
 # lab2web
+NAMA : JIHAN HABIBAH
+KELAS : TI 19 B2
+NIM : 311910094
+
 Pertanyaan dan Tugas 
-* Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+*Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 Langkah-langkah dalam pemberian warna ataupun desain dengan menggunakan CSS
 
 1. Membuat Dokumen HTML
@@ -52,3 +56,5 @@ Lalu kembbali pada browser dan refrash agar hasilnya keluar
 ![lab7](https://user-images.githubusercontent.com/81526294/113584735-7092fd80-9655-11eb-8e48-4a981effdbb9.PNG)
 
 ![lab6](https://user-images.githubusercontent.com/81526294/113584753-77217500-9655-11eb-9e8f-9f08ae8abb13.PNG)
+
+*Perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}
